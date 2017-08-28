@@ -1,1 +1,3 @@
-# rekognition-face-iot
+# Rekognition Face Iot
+
+Introduction
