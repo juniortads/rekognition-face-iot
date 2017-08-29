@@ -1,6 +1,7 @@
+
 # Cloud | IoT - Facial Recognition Door
 
-(https://github.com/juniortads/rekognition-face-iot/blob/master/rekognition_iot.jpg)
+![Alt text](https://github.com/juniortads/rekognition-face-iot/blob/master/rekognition_iot.jpg "Architecture diagram")
 
 ## Motivation
 * This project is part of two friend passionate for inovation, which provides cloud computing and IoT services, moderns components for cloud, escalable and lown cost.
